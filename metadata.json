@@ -1,0 +1,6 @@
+{
+  "name": "Klinik KUHP",
+  "description": "Asisten riset dan pembedah UU No. 1 Tahun 2023 (KUHP Nasional) dengan grounding teks hukum otentik untuk mahasiswa, dosen, dan praktisi hukum.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
